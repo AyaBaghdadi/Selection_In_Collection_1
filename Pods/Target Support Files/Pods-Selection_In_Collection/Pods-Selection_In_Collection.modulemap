@@ -1,0 +1,6 @@
+framework module Pods_Selection_In_Collection {
+  umbrella header "Pods-Selection_In_Collection-umbrella.h"
+
+  export *
+  module * { export * }
+}
